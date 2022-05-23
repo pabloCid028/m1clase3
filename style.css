@@ -1,0 +1,25 @@
+.malos{
+    background-color: red;
+}
+.rebeldes{
+    background-color: blue;
+}
+#lider{
+    font-size: 150%;
+}
+#luke{
+    font-style: italic;
+}
+.soldados{
+    border-style: dashed; 
+    letter-spacing: 2px;
+}
+.apoyo{
+    text-align: center;
+}
+.naves{
+    text-transform: uppercase;
+}
+.droides{
+    text-align: center;
+}

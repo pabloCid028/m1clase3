@@ -1,0 +1,14 @@
+.aventura{
+    border: 2px solid rgb(13, 13, 14);
+}
+h2, h1{text-align: center; font-style: italic;}
+.esperar{
+color: rgb(254, 254, 255);
+background-color: blue;
+border-color: blue;
+}
+.caminar{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-color: blue;
+}
